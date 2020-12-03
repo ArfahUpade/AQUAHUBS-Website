@@ -509,18 +509,19 @@ body {
         text-align:center;
     }
     #Banner h1 {
-        font-size: 1.5rem;
+        font-size: 2rem;
         text-align:center;
         margin: 90px 0 30px;
     }
 /* #Banner-heading{
     font-size: 380% !important;
 } */
-    #Banner a, #About p,  #Contact p, #Contact span, #Contact .address {
+    #About p,  #Contact p, #Contact span, #Contact .address {
         font-size: 1rem;
     }
 #Banner a{
-    padding:20px 20px;
+    font-size: 0.8rem;
+    padding:10px 10px;
    
 }
 
@@ -537,7 +538,7 @@ body {
     }
 
     #Amenities h1, #About h1 {
-        font-size: 1rem;
+        font-size: 1.5rem;
         text-align:center;
         margin:auto;
         margin-top:2rem;
