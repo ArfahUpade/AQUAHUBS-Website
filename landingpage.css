@@ -509,9 +509,9 @@ body {
         text-align:center;
     }
     #Banner h1 {
-        font-size: 2.5rem;
+        font-size: 1.5rem;
         text-align:center;
-        margin: 100px 0 30px;
+        margin: 90px 0 30px;
     }
 /* #Banner-heading{
     font-size: 380% !important;
@@ -533,10 +533,11 @@ body {
     }
 
     .under-the-surface h1, .on-the-surface h1 {
-        font-size: 44px;
+        font-size: 34px;
     }
 
     #Amenities h1, #About h1 {
+        font-size: 1rem;
         text-align:center;
         margin:auto;
         margin-top:2rem;
@@ -565,7 +566,7 @@ body {
         font-size: 3rem;
     }
     .uts-desc{
-        font-size: 1.3rem;
+        font-size: 1rem;
     }
       .uts-img{
          margin-top:2.5rem;
@@ -575,7 +576,7 @@ body {
      margin-bottom:2.5rem;
 }
       .ots-view-btn, .plots-view-btn ,.uts-view-btn{
-          padding:15px 40px ;
+          padding:8px 20px ;
       }
       .testimonial-body{
           font-size:0.7rem;
