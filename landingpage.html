@@ -446,6 +446,9 @@
         </script>
 
     <script>
+        $('.navbar-collapse a:not(.dropdown-toggle)').click(function () {
+            $('.navbar-collapse').collapse('hide');
+        });
         function myFunction() {
             // $('.dark-mode-btn').text($(".dark-mode-btn").text() == "Dark Mode" ? "Dark Mode" : "Light mode");
             document.documentElement.classList.toggle('dark-mode');
