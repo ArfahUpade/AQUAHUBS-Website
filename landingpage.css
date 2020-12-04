@@ -615,7 +615,6 @@ body {
     }
 
     .phone {
-        margin: auto;
         height: 50px;
         width: 100px;
         border: 3px solid black;
