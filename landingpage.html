@@ -457,6 +457,11 @@
         </script>
 
     <script>
+        
+        $('.navbar-collapse .dark-mode-btn').click(function () {
+            $(".navbar-collapse").collapse('hide');
+        });
+        
         $('.navbar-collapse a:not(.dropdown-toggle)').click(function () {
             $('.navbar-collapse').collapse('hide');
         });
