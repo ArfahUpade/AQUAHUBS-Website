@@ -553,6 +553,11 @@
     <script src="./card.js"></script>
 
     <script>
+        
+        $('.navbar-collapse .dark-mode-btn').click(function () {
+            $(".navbar-collapse").collapse('hide');
+        });
+        
         function myFunction() {
             // $('.dark-mode-btn').text($(".dark-mode-btn").text() == "Dark Mode" ? "Dark Mode" : "Light mode");
             document.documentElement.classList.toggle('dark-mode');
