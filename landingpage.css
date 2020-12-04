@@ -609,10 +609,8 @@ body {
     }
     #Landscape {
         position:fixed;
-        top: 50%;
         left: 50%;
-        margin-top: -100px; /* Negative half of height. */
-        margin-left: -250px; /* Negative half of width. */
+        transform: translate(-50%, 0);
         visibility: visible;
     }
 
