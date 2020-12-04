@@ -608,10 +608,12 @@ body {
         background-color: #EBE3D6 !important;
     }
     #Landscape {
-        text-align: center;
         position:fixed;
+        top: 50%;
+        left: 50%;
+        margin-top: -100px; /* Negative half of height. */
+        margin-left: -250px; /* Negative half of width. */
         visibility: visible;
-        margin-top: 100px;
     }
 
     .phone {
