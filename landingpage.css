@@ -469,10 +469,6 @@ body {
     .under-the-surface h1, .on-the-surface h1 {
         font-size: 54px;
     }
-    
-    #About {
-        padding-top: 0px;
-    }
 
     #Amenities h1, #About h1 {
         font-size: 64px;
@@ -542,6 +538,10 @@ body {
         font-size: 34px;
     }
 
+    #About {
+        padding-top: 0px;
+    }
+    
     #Amenities h1, #About h1 {
         font-size: 2rem;
         text-align:center;
