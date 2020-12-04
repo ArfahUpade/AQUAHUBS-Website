@@ -608,6 +608,7 @@ body {
         background-color: #EBE3D6 !important;
     }
     #Landscape {
+        position:fixed;
         visibility: visible;
         margin-top: 100px;
     }
