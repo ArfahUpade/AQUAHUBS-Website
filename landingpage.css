@@ -609,6 +609,7 @@ body {
     }
     #Landscape {
         position:fixed;
+        left: 50%;
         visibility: visible;
         margin-top: 100px;
     }
